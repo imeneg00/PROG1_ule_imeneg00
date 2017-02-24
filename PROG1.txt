@@ -8,3 +8,13 @@
 8. botella -http://dle.rae.es/?id=5yiuECX
 9. elefante -http://dle.rae.es/?id=EW7tcfB
 10. arroz -http://dle.rae.es/?id=3oGWULX
+bit->http://dle.rae.es/?id=5cPrUzM
+casa->http://dle.rae.es/?id=7lsKMtR
+programar->http://dle.rae.es/?id=UJWsNlv
+internet->http://dle.rae.es/?id=LvskgUG
+saltar->http://dle.rae.es/?id=X6IXCPw
+vaca->http://dle.rae.es/?id=bDxdsCL
+panda->http://dle.rae.es/?id=ReX7NKC|ReXGWIc
+informatico\a->http://dle.rae.es/?id=LY8zQy3
+bombilla->http://dle.rae.es/?id=5pimsJw
+puerta->http://dle.rae.es/?id=Uafmj9V
